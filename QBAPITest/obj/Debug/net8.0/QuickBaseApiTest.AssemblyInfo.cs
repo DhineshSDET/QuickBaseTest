@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QuickBaseApiTest")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5001b73708e173d551306ead36ca7bab5f6616c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e461a07b755a124e1a4445c1b0300305f0defdbd")]
 [assembly: System.Reflection.AssemblyProductAttribute("QuickBaseApiTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QuickBaseApiTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

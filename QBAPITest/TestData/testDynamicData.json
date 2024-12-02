@@ -1,0 +1,12 @@
+﻿{
+  "TestCases": [
+    {
+      "Input": "AutomationFieldDynamicOne",
+      "Expected": "AutomationFieldDynamicOne"
+    },
+    {
+      "Input": "AutomationFieldDynamicTwo",
+      "Expected": "AutomationFieldDynamicTwo"
+    }
+  ]
+}

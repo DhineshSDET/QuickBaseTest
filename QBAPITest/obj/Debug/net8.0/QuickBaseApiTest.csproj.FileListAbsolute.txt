@@ -221,3 +221,5 @@ G:\Learning\QuickBase\QuickBaseTest\QBAPITest\obj\Debug\net8.0\refint\QuickBaseA
 G:\Learning\QuickBase\QuickBaseTest\QBAPITest\obj\Debug\net8.0\QuickBaseApiTest.pdb
 G:\Learning\QuickBase\QuickBaseTest\QBAPITest\obj\Debug\net8.0\QuickBaseApiTest.genruntimeconfig.cache
 G:\Learning\QuickBase\QuickBaseTest\QBAPITest\obj\Debug\net8.0\ref\QuickBaseApiTest.dll
+G:\Learning\QuickBase\QuickBaseTest\QBAPITest\bin\Debug\net8.0\TestData\testData.json
+G:\Learning\QuickBase\QuickBaseTest\QBAPITest\bin\Debug\net8.0\TestData\testDynamicData.json
